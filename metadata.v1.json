@@ -1,0 +1,12 @@
+{
+  "title": "metadata",
+  "type": "object",
+  "properties": {
+    "key": {
+      "type": "integer"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
